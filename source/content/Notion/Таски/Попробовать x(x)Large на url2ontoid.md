@@ -1,5 +1,0 @@
----
-Status: Done
-Priority:
-  - Medium
----
